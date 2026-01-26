@@ -7,8 +7,7 @@ nav: true
 nav_order: 5
 calendar: false
 ---
-
-[View Resume](../assets/pdf/Elizabeth_Myong_resume.pdf)
+<a href="https://elizabethmyong.github.io/assets/pdf/Elizabeth_Myong_Resume.pdf"> Download my resume </a>
 
 ##### **WORK EXPERIENCE** 
 
