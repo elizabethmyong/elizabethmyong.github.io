@@ -67,6 +67,63 @@ CNBC
 
 <hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
 
+The Houston Chronicle
+
+Politics & Public Safety
+
+[Houston takes aim at illegal dumping with cameras, drones](https://www.houstonchronicle.com/news/houston-texas/houston/article/Houston-takes-aim-at-illegal-dumping-with-13127874.php)
+
+[Russians in Houston have diverse views on international affairs](https://www.chron.com/news/houston-texas/houston/article/Russians-in-Houston-have-diverse-views-on-13057131.php)
+
+[A sense of urgency draws immigrants to Houston Citizenship Day](https://www.chron.com/news/houston-texas/houston/article/A-sense-of-urgency-draws-immigrants-to-Houston-13020652.php)
+
+[New Houston rapid-recovery center touted as answer in opioid epidemic](https://www.houstonchronicle.com/news/houston-texas/houston/article/New-Houston-rapid-recovery-center-touted-as-13167180.php)
+
+[For Houston bike safety laws, education trumps enforcement](https://www.chron.com/news/houston-texas/houston/article/For-Houston-bike-safety-laws-education-trumps-13109066.php)
+
+['Die-in' outside Cruz's office recognizes 2nd anniversary of Pulse massacre](https://www.chron.com/news/houston-texas/houston/article/Die-in-recognizes-2nd-anniversary-of-Pulse-12987313.php)
+
+Features
+
+[Contestants shine at Chinatown Houston pageant](https://www.houstonchronicle.com/news/houston-texas/houston/article/Contestants-shine-at-Chinatown-Houston-pageant-13096121.php)
+
+['Favorite' live oak tree at Menil cut down, dismaying admirers](https://www.chron.com/news/houston-texas/houston/article/Favorite-live-oak-tree-at-Menil-cut-down-13098968.php)
+
+[Poetry on the rise at slams, in the classroom, on the street](https://www.houstonchronicle.com/news/houston-texas/houston/article/Poetry-on-the-rise-at-slams-in-the-classroom-on-13020737.php)
+
+[Two making a difference](https://www.houstonchronicle.com/news/houston-texas/houston/article/Two-making-a-difference-12383272.php)
+
+[Memorial Assistance Ministries gets people back on their feet by treating them with respect](https://www.houstonchronicle.com/about/houston-gives/article/Yes-MAM-Exemplary-charity-gets-people-back-on-12374518.php)
+
+<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
+
+Houstonia Magazine
+
+[Who Was Salvador Dalí?](https://www.houstoniamag.com/arts-and-culture/2017/11/christine-argillet-off-the-wall-salvador-dali)
+
+[To Understand Telepathic Improvisation, You Must Use Your Brain](https://www.houstoniamag.com/arts-and-culture/2017/09/camh-exhibit-telepathic-improvisation)
+
+[Repeater Makes an Instagrammable Arrival at the Moody. But Why is it Here?](https://www.houstoniamag.com/arts-and-culture/2017/06/repeater-makes-an-instagrammable-arrival-at-the-moody)
+
+[Ruth Pastine’s Mirroring Offers a Kaleidoscopic, Enveloping Experience with Color](https://www.houstoniamag.com/arts-and-culture/2017/09/ruth-pastine-gallery-sonja-roesch-mirroring)
+
+[Microcuentos Tell Big Stories at Lawndale Art Center](https://www.houstoniamag.com/arts-and-culture/2018/02/lawndale-art-center-microcuento-rice-university)
+
+<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
+
+Opinion Editorials & Essays
+
+[Korean New Year: How COVID changes brought unexpected insights into my family traditions](https://artandseek.org/2021/02/11/korean-new-year-how-covid-changes-brought-unexpected-insights-into-my-family-traditions/)
+
+[Korean food in Houston: A missed opportunity](https://www.houstonchronicle.com/entertainment/restaurants-bars/article/Korean-food-in-Houston-A-missed-opportunity-13965544.php)
+
+[Sandra Oh: Finally, a leading actress who just happens to be Asian](https://www.houstonchronicle.com/local/gray-matters/article/sandra-oh-asian-actress-emmy-nomination-13101848.php)
+
+[Where do Rice students cry? Facebook.](https://www.houstonchronicle.com/local/gray-matters/article/rice-university-mental-health-facebook-group-13063075.php)
+
+
+
+
 
 
 
