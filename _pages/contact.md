@@ -11,7 +11,7 @@ calendar: false
 Hello! Please reach out to me with any inquiries, comments, or requests. I’ll do my best to get back to you promptly. 
 <style>
 form {
-  max-width: 1000px;
+  max-width: 775px;
   margin: auto;
 }
 input, textarea {
@@ -35,7 +35,7 @@ button:hover {
 }
 </style>
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<form action="https://formspree.io/f/xbdokkrb" method="POST">
   <label for="first-name">First Name (required)</label><br>
   <input type="text" id="first-name" name="first-name" required><br><br>
 
