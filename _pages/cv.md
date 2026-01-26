@@ -10,5 +10,5 @@ calendar: false
 
 You can view or download my resume below:
 
-[View resume](Elizabeth_Myong_resume.pdf)
+[View resume](/assets/pdf/Elizabeth_Myong_resume.pdf)
 
