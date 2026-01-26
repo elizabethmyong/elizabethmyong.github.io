@@ -4,7 +4,7 @@ permalink: /teaching/
 title: work
 description: 
 nav: true
-nav_order: 6
+nav_order: 2
 calendar: false
 ---
 <h2>Arts Access</h2>
