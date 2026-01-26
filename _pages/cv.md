@@ -8,11 +8,10 @@ nav_order: 5
 calendar: false
 ---
 
-You can view or download my resume below:
+[View Resume](../assets/pdf/Elizabeth_Myong_resume.pdf)
 
-[View resume](assets/pdf/Elizabeth_Myong_resume.pdf)
+##### **WORK EXPERIENCE** 
 
-##### **WORK EXPERIENCE**
 
 ###### **ARTS ACCESS REPORTER/PRODUCER, KERA NEWS & THE DALLAS MORNING NEWS | SEPTEMBER 2022-PRESENT**
 
