@@ -4,7 +4,7 @@ permalink: /resume/
 title: resume
 description:
 nav: true
-nav_order: 5
+nav_order: 3
 calendar: false
 ---
 <a href="https://elizabethmyong.github.io/assets/pdf/Elizabeth_Myong_Resume.pdf"> Download my resume </a>
