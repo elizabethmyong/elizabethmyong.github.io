@@ -1,13 +1,38 @@
 ---
 layout: page
 permalink: /resume/
-title: resume
+title: Resume
 description:
 nav: true
 nav_order: 3
 calendar: false
 ---
-<a href="https://elizabethmyong.github.io/assets/pdf/Elizabeth_Myong_Resume.pdf"> Download my resume </a>
+<style>
+.pdf-button {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.pdf-button a {
+  display: inline-block;
+  background-color: #000000;
+  color: white;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.pdf-button a:hover {
+  background-color: #024ea2;
+}
+</style>
+
+<div class="pdf-button">
+  <a href="https://elizabethmyong.github.io/assets/pdf/Elizabeth_Myong_Resume.pdf">
+    DOWNLOAD
+  </a>
+</div>
 
 ##### **WORK EXPERIENCE** 
 
