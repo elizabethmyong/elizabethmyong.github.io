@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /work/
 title: Work
 description: 
 nav: true
@@ -8,6 +8,7 @@ nav_order: 2
 calendar: false
 ---
 ## **Arts Access**
+<br>
 
 [Dallas arts groups won’t take May bond package for granted. ‘It ain’t over 'til it’s over’](https://www.keranews.org/arts-culture/2024-02-21/dallas-city-council-approves-may-bond-vote-and-75-2-million-for-cultural-groups)
 
@@ -20,6 +21,7 @@ calendar: false
 [Ralph Barbosa on his new Netflix special, cheesesteaks and growing up in North Texas](https://www.keranews.org/arts-culture/2023-09-20/ralph-barbosa-on-his-new-netflix-special-cheesesteaks-and-growing-up-in-north-texas)
 
 #### Enterprise & Investigative
+<br>
 
 [How Dallas Black Dance Theatre fired dancers in the clash of old and new school](https://www.keranews.org/arts-culture/2024-09-20/how-dallas-black-dance-theatre-fired-dancers-in-the-clash-of-old-and-new-school)
 
@@ -32,6 +34,7 @@ calendar: false
 <hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
 
 ## **Speaking Engagements**
+<br>
 
 Think.Public.Media Panel with KUT News, KUTX and The Texas Newsroom for AAJA Convention (2024) 
 
@@ -46,6 +49,7 @@ Think.Public.Media Panel with KUT News, KUTX and The Texas Newsroom for AAJA Con
 <hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
 
 ## **Marketplace**
+<br>
 
 [In Texas, some Black-owned barbecue restaurants saw an uptick in business during summer protests](https://www.marketplace.org/2020/10/14/texas-some-black-owned-barbecue-restaurants-saw-uptick-business-during-summer-protests/)
 
@@ -54,6 +58,7 @@ Think.Public.Media Panel with KUT News, KUTX and The Texas Newsroom for AAJA Con
 <hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
 
 ## **CNBC**
+<br>
 
 [Native American voters could help swing the 2020 presidential election](https://www.cnbc.com/2019/09/11/native-american-voters-could-help-swing-the-2020-presidential-election.html)
 
@@ -68,6 +73,7 @@ Think.Public.Media Panel with KUT News, KUTX and The Texas Newsroom for AAJA Con
 <hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
 
 ## **The Houston Chronicle**
+<br>
 
 #### Politics & Public Safety
 
@@ -83,9 +89,8 @@ Think.Public.Media Panel with KUT News, KUTX and The Texas Newsroom for AAJA Con
 
 ['Die-in' outside Cruz's office recognizes 2nd anniversary of Pulse massacre](https://www.chron.com/news/houston-texas/houston/article/Die-in-recognizes-2nd-anniversary-of-Pulse-12987313.php)
 
-<hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
-
 #### Features
+<br>
 
 [Contestants shine at Chinatown Houston pageant](https://www.houstonchronicle.com/news/houston-texas/houston/article/Contestants-shine-at-Chinatown-Houston-pageant-13096121.php)
 
@@ -100,6 +105,7 @@ Think.Public.Media Panel with KUT News, KUTX and The Texas Newsroom for AAJA Con
 <hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
 
 ## **Houstonia Magazine**
+<br>
 
 [Who Was Salvador Dalí?](https://www.houstoniamag.com/arts-and-culture/2017/11/christine-argillet-off-the-wall-salvador-dali)
 
@@ -114,6 +120,7 @@ Think.Public.Media Panel with KUT News, KUTX and The Texas Newsroom for AAJA Con
 <hr style="border: none; border-top: 1px solid #e5e7eb; margin: 2rem 0;">
 
 ## **Opinion Editorials & Essays**
+<br>
 
 [Korean New Year: How COVID changes brought unexpected insights into my family traditions](https://artandseek.org/2021/02/11/korean-new-year-how-covid-changes-brought-unexpected-insights-into-my-family-traditions/)
 
