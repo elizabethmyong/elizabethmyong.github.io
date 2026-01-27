@@ -34,10 +34,7 @@ calendar: false
   </a>
 </div>
 
-<br>
-
 ##### **WORK EXPERIENCE** 
-<br>
 
 ###### **ARTS ACCESS REPORTER/PRODUCER, KERA NEWS & THE DALLAS MORNING NEWS | SEPTEMBER 2022-PRESENT**
 
