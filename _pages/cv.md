@@ -29,13 +29,15 @@ calendar: false
 </style>
 
 <div class="pdf-button">
-  <a href="https://elizabethmyong.github.io/assets/pdf/Elizabeth_Myong_Resume.pdf">
-    DOWNLOAD
+  <a href="https://elizabethmyong.github.io/assets/pdf/EM_Resume.pdf">
+    Download
   </a>
 </div>
 
-##### **WORK EXPERIENCE** 
+<br>
 
+##### **WORK EXPERIENCE** 
+<br>
 
 ###### **ARTS ACCESS REPORTER/PRODUCER, KERA NEWS & THE DALLAS MORNING NEWS | SEPTEMBER 2022-PRESENT**
 
