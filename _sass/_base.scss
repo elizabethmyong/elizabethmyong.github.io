@@ -201,7 +201,7 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', serif;
 
     p {
       display: inline-block;
@@ -1430,7 +1430,7 @@ figure.cover {
   }
 
   figcaption.abandoned {
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', serif;
     color: #23212d;
     text-transform: uppercase;
     background-color: #ee5f5b;
@@ -1438,28 +1438,28 @@ figure.cover {
 
   figcaption.finished,
   figcaption.watched {
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', serif;
     color: #23212d;
     text-transform: uppercase;
     background-color: #62c462;
   }
 
   figcaption.interested {
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', serif;
     color: #23212d;
     text-transform: uppercase;
     background-color: #7691db;
   }
 
   figcaption.paused {
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', serif;
     color: #23212d;
     text-transform: uppercase;
     background-color: #bdac7e;
   }
 
   figcaption.queued {
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', serif;
     color: #23212d;
     text-transform: uppercase;
     background-color: #9e76b5;
@@ -1467,7 +1467,7 @@ figure.cover {
 
   figcaption.reading,
   figcaption.watching {
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', serif;
     color: #23212d;
     text-transform: uppercase;
     background-color: #f89406;
@@ -1475,14 +1475,14 @@ figure.cover {
 
   figcaption.reread,
   figcaption.rewatch {
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', serif;
     color: #23212d;
     text-transform: uppercase;
     background-color: #a6517d;
   }
 
   figcaption.uncategorized {
-    font-family: 'Playfair Display';
+    font-family: 'Playfair Display', serif;
     color: #23212d;
     text-transform: uppercase;
     background-color: #b0abb3;
