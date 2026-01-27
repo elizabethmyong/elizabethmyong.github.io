@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "nav-resume",
-          title: "resume",
+          title: "Resume",
           description: "",
           section: "Navigation",
           handler: () => {
