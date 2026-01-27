@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact/
-title: contact
+title: Contact
 description:
 nav: true
 nav_order: 5
@@ -11,8 +11,8 @@ calendar: false
 Hello! Please reach out to me with any inquiries, comments, or requests. I’ll do my best to get back to you promptly. 
 <style>
 form {
-  max-width: 775px;
-  margin: auto;
+  max-width: 600px;
+  margin: 0;
 }
 input, textarea {
   width: 100%;
@@ -23,7 +23,7 @@ input, textarea {
   border-radius: 4px;
 }
 button {
-  background: #0366d6;
+  background: #000000;
   color: white;
   padding: 10px 16px;
   border: none;
