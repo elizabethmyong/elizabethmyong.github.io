@@ -25,13 +25,13 @@ scrollable: true # adds a vertical scroll bar if there are more than 3 new posts
 limit: 3 # leave blank to include all the blog posts
 --- 
 
-<strong>I’m a writer and journalist</strong> who reports and produces for Arts Access, a journalism partnership between KERA and The Dallas Morning News. I cover the intersection of money, labor and the economy with arts and culture. 
+<strong> I’m a writer and journalist who covers the intersection of food systems and culture. 
 
-I also enjoy writing about food systems, whether I’m looking into a nonprofit trying to grow the number of Black farmers in Texas, a local family-owned produce market that went viral or a vertical hydroponic greenhouse company. I’m currently in the 2025 Johns Hopkins Center for a Livable Future Food Systems and Public Health Fellowship for Journalists. In 2018, I received a Weissenberger Food Scholarship to study regional cuisine in the Middle East. 
+I’m currently in the 2025 Johns Hopkins Center for a Livable Future Food Systems and Public Health Fellowship for Journalists. In 2018, I received a Weisenberger Food Scholarship to study regional cuisine in the Middle East.
 
-Previously, I freelanced as a modern arts reporter at Houstonia Magazine and a features reporter at the Houston Chronicle. I also worked as a news fellow covering politics and breaking news at CNBC. 
+Previously, I covered the intersection of money, labor and the economy with food, arts and culture for a journalism partnership between KERA and The Dallas Morning News. I’ve also freelanced for Houstonia Magazine and the Houston Chronicle and worked as a news fellow covering politics and breaking news at CNBC.
 
-My work has been published by APM’s Marketplace, NPR’s Weekend Edition, WBUR’s Here & Now, cnbc.com, Yahoo! Finance, The Houston Chronicle, Associated Press, Houstonia Magazine, Eater NY and Rice Magazine. I was a part of Poynter’s Power of Diverse Voices program in 2021 and was a Poynter-Koch Fellow in 2023-2024. For my innovation project, I tabled at community events and started conversations with people about deep fakes, misinformation and sensationalism.
+My work has been published by APM’s Marketplace, NPR, WBUR’s Here & Now, cnbc.com, Yahoo! Finance, The Houston Chronicle, Associated Press, Houstonia Magazine, Eater NY and Rice Magazine. I was a part of Poynter’s Power of Diverse Voices program in 2021 and was a Poynter-Koch Fellow in 2023-2024. For my innovation project, I tabled at community events and started conversations with people about deep fakes, misinformation and sensationalism.
 
 My reporting on Asian American communities won a regional Edward R. Murrow award and Texas Broadcast News Award. I also reported on Dallas County’s weatherization assistance program for Season 2 of KUT’s award-winning podcast <em>The Disconnect</em> that looks into Texas’ catastrophic 2021 blackout.
 
