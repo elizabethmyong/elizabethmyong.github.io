@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 calendar: false
 ---
-## **Arts Access**
+## **Culture Reporting**
 
 [Dallas arts groups won’t take May bond package for granted. ‘It ain’t over 'til it’s over’](https://www.keranews.org/arts-culture/2024-02-21/dallas-city-council-approves-may-bond-vote-and-75-2-million-for-cultural-groups)
 
