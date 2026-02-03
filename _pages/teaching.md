@@ -7,6 +7,9 @@ nav: true
 nav_order: 2
 calendar: false
 ---
+| <img src="../assets/img/Elizabeth_Myong_SMU.png" width="200" height="200" style="object-fit: cover;" /> | <img src="../assets/img/Liz_reporting_1.png" width="200" height="200" style="object-fit: cover;" /> | <img src="../assets/img/Liz_reporting_2.png" width="200" height="200" style="object-fit: cover;" /> | <img src="../assets/img/Liz_reporting_3.png" width="200" height="200" style="object-fit: cover;" /> |
+|---|---|---|---|
+
 ## **Culture Reporting**
 
 [Dallas arts groups won’t take May bond package for granted. ‘It ain’t over 'til it’s over’](https://www.keranews.org/arts-culture/2024-02-21/dallas-city-council-approves-may-bond-vote-and-75-2-million-for-cultural-groups)
