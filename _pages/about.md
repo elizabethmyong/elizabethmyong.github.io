@@ -25,9 +25,12 @@ scrollable: true # adds a vertical scroll bar if there are more than 3 new posts
 limit: 3 # leave blank to include all the blog posts
 --- 
 
-<strong> I’m a writer and journalist who covers the intersection of food systems and culture. I've written stories about a mobile health clinic serving Vietnamese fishermen, Black farmers building community in Texas and a TikTok viral market offering affordable produce. 
+<strong> I’m a writer and journalist who covers the intersection of food systems and culture. 
+I've written stories about a mobile health clinic serving Vietnamese fishermen, Black farmers building community in Texas and a TikTok viral market offering affordable produce. 
 
-My work has been published by Civil Eats, NPR, CNBC, APM’s Marketplace, WBUR’s Here & Now, The Houston Chronicle, Associated Press, Houstonia Magazine, Eater NY and Rice Magazine. I was selected for the 2025 Johns Hopkins Center for a Livable Future Food Systems and Public Health Fellowship for Journalists. In 2018, I received a Weisenberger Food Scholarship to study regional cuisine in the Middle East.
+My work has been published by Civil Eats, NPR, CNBC, APM’s Marketplace, WBUR’s Here & Now, The Houston Chronicle, Associated Press, Houstonia Magazine, Eater NY and Rice Magazine. 
+
+I was selected for the 2025 Johns Hopkins Center for a Livable Future Food Systems and Public Health Fellowship for Journalists. In 2018, I received a Weisenberger Food Scholarship to study regional cuisine in the Middle East.
 
 Previously, I reported on the intersection of money and labor with arts and culture for a journalism partnership between KERA and The Dallas Morning News. I’ve also freelanced for Houstonia Magazine and the Houston Chronicle and worked as a news fellow covering politics and breaking news at CNBC.
 
