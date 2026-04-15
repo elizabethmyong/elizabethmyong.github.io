@@ -26,6 +26,7 @@ limit: 3 # leave blank to include all the blog posts
 --- 
 
 <strong> I’m a writer and journalist who covers the intersection of food systems and culture. 
+
 I've written stories about a mobile health clinic serving Vietnamese fishermen, Black farmers building community in Texas and a TikTok viral market offering affordable produce. 
 
 My work has been published by Civil Eats, NPR, CNBC, APM’s Marketplace, WBUR’s Here & Now, The Houston Chronicle, Associated Press, Houstonia Magazine, Eater NY and Rice Magazine. 
