@@ -9,6 +9,16 @@ calendar: false
 ---
 <img src="../assets/img/Elizabeth_Myong_SMU.png" width="200" height="200" style="object-fit: cover;" /> <img src="../assets/img/Liz_reporting_1.png" width="200" height="200" style="object-fit: cover;" /> <img src="../assets/img/Liz_reporting_2.png" width="200" height="200" style="object-fit: cover;" /> <img src="../assets/img/Liz_reporting_3.png" width="200" height="200" style="object-fit: cover;" />
 
+## **Food Systems Reporting**
+
+[A Mobile Clinic Delivers Critical Care for Texas Shrimpers](https://civileats.com/2026/04/01/a-mobile-clinic-delivers-critical-care-for-texas-shrimpers/)
+
+[Black farmers in Texas build a home-grown community with nonprofit support](https://www.keranews.org/environment-nature/2024-10-23/black-farmers-in-texas-build-a-home-grown-community-with-nonprofit-support)
+
+[Grocery bills have surged. This TikTok viral market in the Cedars is here to help](https://www.keranews.org/arts-culture/2025-03-06/grocery-bills-have-surged-this-tiktok-viral-market-in-the-cedars-is-here-to-help)
+
+[A taste of home: This Wylie resident uses a clay pot for an Ethiopian coffee ceremony](https://www.keranews.org/arts-culture/2025-09-30/ethiopian-coffee-ceremony-reflects-home-in-wylie)
+
 ## **Culture Reporting**
 
 [Dallas arts groups won’t take May bond package for granted. ‘It ain’t over 'til it’s over’](https://www.keranews.org/arts-culture/2024-02-21/dallas-city-council-approves-may-bond-vote-and-75-2-million-for-cultural-groups)
