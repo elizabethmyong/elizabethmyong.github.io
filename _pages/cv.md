@@ -29,7 +29,7 @@ calendar: false
 </style>
 
 <div class="pdf-button">
-  <a href="https://elizabethmyong.github.io/assets/pdf/EM_Resume.pdf">
+  <a href="https://elizabethmyong.github.io/assets/pdf/UPDATED_Elizabeth_Myong_Resume.pdf">
     Download
   </a>
 </div>
