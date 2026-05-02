@@ -39,16 +39,14 @@ calendar: false
 ###### **FREELANCE REPORTER/PRODUCER | JUNE 2017-PRESENT**
 
 • Reporting stories about food systems and culture with work published in Civil
-  Eats, NPR, APM’s Marketplace, WBUR’s Here & Now, The Houston Chronicle,
-  Houstonia Magazine, Eater NY and Rice Magazine
-• Travel reporting through a grant from the Johns Hopkins Food Systems and
-  Public Health Fellowship
+  Eats, NPR, APM’s Marketplace, WBUR’s Here & Now, The Houston Chronicle, Houstonia Magazine, Eater NY and Rice Magazine <br>
+• Travel reporting through a grant from the Johns Hopkins Food Systems and Public Health Fellowship
 
 ###### **ARTS ACCESS REPORTER/PRODUCER, KERA NEWS & THE DALLAS MORNING NEWS | SEPTEMBER 2022-JANUARY 2026**
 
 • Reports on arts and culture through the lense of access and equity <br>
-• Hosts panel events with key North Texas arts leaders
-• Creates content for digital, social, radio, and print
+• Hosts panel events with key North Texas arts leaders <br>
+• Creates content for digital, social, radio, and print <br>
 • Serves on AI ethics committee
 
 ###### **DIGITAL PRODUCER, KERA NEWS | JANUARY 2020-AUGUST 2022**
